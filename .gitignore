@@ -1,0 +1,140 @@
+# =============== #
+# Unity generated #
+# =============== #
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+sysinfo.txt
+
+# ============ #
+# OS generated #
+# ============ #
+
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+$RECYCLE.BIN/
+
+# ======================= #
+# Visual Studio / Rider   #
+# ======================= #
+
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# ================= #
+# Unity Asset Store #
+# ================= #
+
+*.unitypackage
+
+# ===================== #
+# Auto-generated files  #
+# ===================== #
+
+ExportedObj/
+*.apk
+*.aab
+*.app
+*.exe
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+*.pdb
+*.mdb
+
+# =================== #
+# Addressables / Cache #
+# =================== #
+
+[Bb]uilds/
+[Ll]ibrary/Addressables*
+[Ll]ibrary/com.unity.addressables/
+[Ll]ibrary/ScriptAssemblies/
+[Ll]ibrary/ShaderCache/
+[Ll]ibrary/ShaderIncludeCache/
+[Ll]ibrary/metadata/
+
+# ================= #
+# Collaborate / VCS #
+# ================= #
+
+.collabignore
+*.collab
+*.orig
+
+# ================ #
+# Crash Reports     #
+# ================ #
+
+sysinfo.txt
+*.stacktrace
+
+# ===================== #
+# Rider and JetBrains   #
+# ===================== #
+
+.idea/
+*.sln.iml
+
+# ===================== #
+# Unity Cloud Build     #
+# ===================== #
+
+unitycloud/
+
+# ===================== #
+# Build Output          #
+# ===================== #
+
+[Bb]uild/
+[Bb]uilds/
+[Bb]in/
+[Oo]utput/
+
+# ===================== #
+# Other                 #
+# ===================== #
+
+*.unityproj
+*.svd
+*.db
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.booproj
+*.tmp
+*.bak
+*.ncb
+*.log
+*.swp
+*.tmp
+*.bak
+*.old
+
+# ========================= #
+# Ignore packages directory #
+# ========================= #
+
+[Pp]ackages/com.unity.package-manager-do-not-modify/
